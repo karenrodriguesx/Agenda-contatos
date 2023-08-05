@@ -1,13 +1,11 @@
-# Atividade CRUD PHP
+# Sobre este projeto
 
-Alunos:
-- Johnathan Menezes
-- Karen Gabrielle
-- Ítalo Guerra
+- Simulando uma agenda de contatos, o sistema recebe os dados do novo contato, e também pode alterar, atualizar ou excluir um contato
+- O sistema foi feito baseado nas funções CRUD, utilizando PDO da linguagem PHP
 
-Funcionalidades do código CRUD:
+## Funcionalidades:
 
-- Início:
+- Tela de início:
 
 ![image](https://user-images.githubusercontent.com/97055846/201999861-970ed981-a4fb-4595-b8ad-6709f2023123.png)
 
@@ -31,3 +29,6 @@ Funcionalidades do código CRUD:
 - Tabela do Banco de Dados:
 
 ![image](https://user-images.githubusercontent.com/97055846/202001038-4e069a2d-d53d-4ba9-b03e-d8958bee3390.png)
+
+#
+### Este projeto foi um trabalho acadêmico, realizado em grupo composto por 3 integrantes.
