@@ -31,4 +31,4 @@
 ![image](https://user-images.githubusercontent.com/97055846/202001038-4e069a2d-d53d-4ba9-b03e-d8958bee3390.png)
 
 #
-### Este projeto foi um trabalho acadêmico, realizado em grupo composto por 3 integrantes.
+##### Este projeto foi um trabalho acadêmico, realizado em grupo composto por 3 integrantes.
