@@ -1,4 +1,4 @@
-# Sobre este projeto
+# Sobre este projeto<img align="center" alt="Karen-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"><img align="center" alt="Karen-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 - Simulando uma agenda de contatos, o sistema recebe os dados do novo contato, e também pode alterar, atualizar ou excluir um contato
 - O sistema foi feito baseado nas funções CRUD, utilizando PDO da linguagem PHP
